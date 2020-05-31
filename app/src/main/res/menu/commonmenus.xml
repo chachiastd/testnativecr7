@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnusearch"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="search"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuclose"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="close"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuhome"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+</menu>

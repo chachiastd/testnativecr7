@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="add_attribution_background_color">#FFA500</color>
+    <color name="ad_background_color">#FFFFFF</color>
+    <color name="ad_heading_color">#00008B</color>
+    <color name="ad_body_text_color">#696969</color>
+    <color name="ad_button_text_color">#6200EE</color>
+    <color name="add_button_color">#00BCD4</color>
+</resources>
